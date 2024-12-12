@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
