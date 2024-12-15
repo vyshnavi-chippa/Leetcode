@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
