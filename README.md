@@ -48,6 +48,7 @@
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
