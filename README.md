@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0742-to-lower-case) |
 ## String Matching
 |  |
 | ------- |
