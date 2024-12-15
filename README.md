@@ -47,6 +47,7 @@
 | [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -83,4 +84,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
