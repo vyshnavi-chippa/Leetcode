@@ -19,6 +19,7 @@
 | [0661-image-smoother](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0661-image-smoother](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,5 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
