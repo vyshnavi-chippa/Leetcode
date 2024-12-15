@@ -46,6 +46,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
