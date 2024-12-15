@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 ## String Matching
 |  |
 | ------- |
