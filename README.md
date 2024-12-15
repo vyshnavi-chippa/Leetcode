@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -41,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
