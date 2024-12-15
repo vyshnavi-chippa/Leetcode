@@ -59,4 +59,9 @@
 | ------- |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
