@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
