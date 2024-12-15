@@ -78,6 +78,7 @@
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## String Matching
 |  |
 | ------- |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
