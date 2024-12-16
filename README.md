@@ -22,6 +22,7 @@
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,12 +51,14 @@
 | [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +148,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
