@@ -27,6 +27,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
