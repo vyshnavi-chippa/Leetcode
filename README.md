@@ -29,6 +29,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1791-richest-customer-wealth](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
