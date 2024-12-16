@@ -31,6 +31,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [2048-build-array-from-permutation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
