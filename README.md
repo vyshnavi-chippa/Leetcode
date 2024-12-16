@@ -24,6 +24,7 @@
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
