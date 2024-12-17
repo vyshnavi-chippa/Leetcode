@@ -109,6 +109,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -162,6 +163,7 @@
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 ## Heap (Priority Queue)
 |  |
