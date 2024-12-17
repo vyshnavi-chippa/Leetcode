@@ -49,6 +49,7 @@
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
