@@ -42,6 +42,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -92,6 +93,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
 |  |
 | ------- |
