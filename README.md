@@ -117,6 +117,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
