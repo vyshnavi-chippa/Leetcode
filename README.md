@@ -114,6 +114,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -220,6 +221,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 ## Heap (Priority Queue)
 |  |
