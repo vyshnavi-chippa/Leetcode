@@ -113,6 +113,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
