@@ -37,6 +37,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
