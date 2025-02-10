@@ -1,4 +1,5 @@
 # Leetcode
+This repository contains the list of programs I executed in leetcode platform
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
