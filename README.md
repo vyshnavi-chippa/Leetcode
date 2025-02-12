@@ -39,6 +39,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -69,6 +70,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
@@ -106,6 +108,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -248,6 +251,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
