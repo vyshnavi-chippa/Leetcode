@@ -313,4 +313,12 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
