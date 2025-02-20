@@ -38,6 +38,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1791-richest-customer-wealth](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -74,6 +75,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -161,6 +163,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3379-score-of-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3379-score-of-a-string) |
@@ -315,6 +318,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
