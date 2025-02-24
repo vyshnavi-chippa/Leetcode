@@ -103,6 +103,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +132,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0007-reverse-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
