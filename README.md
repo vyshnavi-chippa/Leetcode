@@ -10,6 +10,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0027-remove-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
@@ -89,6 +90,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
@@ -117,6 +119,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
