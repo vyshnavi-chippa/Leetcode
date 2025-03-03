@@ -50,6 +50,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -108,6 +109,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
