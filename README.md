@@ -175,6 +175,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0013-roman-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0125-valid-palindrome) |
@@ -342,6 +343,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
