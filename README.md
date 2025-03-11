@@ -108,6 +108,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -190,6 +191,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3379-score-of-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3379-score-of-a-string) |
@@ -349,6 +351,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 ## Backtracking
