@@ -193,6 +193,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3379-score-of-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -291,6 +292,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
@@ -348,6 +350,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0020-valid-parentheses](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
