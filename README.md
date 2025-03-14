@@ -55,6 +55,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3188-find-champion-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
@@ -241,6 +243,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0268-missing-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
