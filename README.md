@@ -303,6 +303,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0584-find-customer-referee](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0595-big-countries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
 | ------- |
