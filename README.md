@@ -174,6 +174,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -398,4 +399,8 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
