@@ -110,6 +110,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0202-happy-number) |
@@ -149,6 +150,7 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -271,6 +273,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
@@ -343,6 +346,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -409,6 +413,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
