@@ -408,12 +408,14 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
 |  |
@@ -431,9 +433,11 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
