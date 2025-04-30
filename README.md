@@ -34,6 +34,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -182,6 +183,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
