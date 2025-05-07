@@ -54,6 +54,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -100,6 +101,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -166,6 +168,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -335,6 +338,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -350,6 +354,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -380,6 +385,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
