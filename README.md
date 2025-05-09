@@ -69,6 +69,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3188-find-champion-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -175,6 +176,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -346,6 +348,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -363,6 +366,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
