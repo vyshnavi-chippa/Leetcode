@@ -78,6 +78,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -205,6 +206,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
@@ -351,6 +353,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
@@ -368,6 +371,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
