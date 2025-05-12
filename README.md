@@ -67,6 +67,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -421,6 +422,7 @@ This repository contains the list of programs I executed in leetcode platform
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Trie
