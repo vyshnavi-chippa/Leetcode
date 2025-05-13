@@ -42,6 +42,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -424,6 +425,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
