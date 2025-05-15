@@ -79,6 +79,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3194-find-words-containing-character](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -366,6 +367,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
+| [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -436,6 +438,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2571-find-the-pivot-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
