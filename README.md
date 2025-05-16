@@ -97,6 +97,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -229,6 +230,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -444,6 +446,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Trie
 |  |
