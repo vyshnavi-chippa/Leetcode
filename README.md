@@ -60,6 +60,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2058-concatenation-of-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -198,6 +199,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -434,6 +436,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
@@ -442,6 +445,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
