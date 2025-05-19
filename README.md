@@ -85,6 +85,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3321-type-of-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -205,6 +206,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -233,6 +235,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2649-count-total-number-of-colored-cells](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
