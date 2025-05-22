@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<candies.length;i++)
         if(max<candies[i])
         max=candies[i];
-        ArrayList<Boolean> al=new ArrayList<>();
+        ArrayList<Boolean> al=new ArrayList<>(candies.length);
         for(int i=0;i<candies.length;i++){
             if(candies[i]+extraCandies>=max)
             al.add(true);
