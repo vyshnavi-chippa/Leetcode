@@ -40,6 +40,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1127-last-stone-weight](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1241-decompress-run-length-encoded-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
