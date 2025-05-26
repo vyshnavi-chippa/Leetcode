@@ -281,6 +281,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
