@@ -417,6 +417,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -552,6 +553,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0328-odd-even-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
 |  |
