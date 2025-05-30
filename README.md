@@ -69,6 +69,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -247,6 +248,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -292,6 +294,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2502-sort-the-people) |
@@ -325,6 +328,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
