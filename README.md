@@ -265,6 +265,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
@@ -308,6 +309,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3636-check-balanced-string) |
 ## String Matching
 |  |
