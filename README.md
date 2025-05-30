@@ -212,6 +212,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1970-sorting-the-sentence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -246,6 +247,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -482,6 +484,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
