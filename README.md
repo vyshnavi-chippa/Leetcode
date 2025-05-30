@@ -340,6 +340,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0191-number-of-1-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
@@ -388,6 +389,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
