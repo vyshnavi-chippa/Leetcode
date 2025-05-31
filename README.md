@@ -130,6 +130,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -283,6 +284,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0125-valid-palindrome](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -579,4 +581,12 @@ This repository contains the list of programs I executed in leetcode platform
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
