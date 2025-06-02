@@ -13,6 +13,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
@@ -494,6 +495,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
