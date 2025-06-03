@@ -245,6 +245,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -410,6 +411,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0118-pascals-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -595,4 +597,12 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
