@@ -13,6 +13,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
@@ -406,6 +407,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
