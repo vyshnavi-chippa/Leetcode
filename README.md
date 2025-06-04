@@ -56,6 +56,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1603-running-sum-of-1d-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -385,6 +386,7 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
