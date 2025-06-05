@@ -295,6 +295,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1651-shuffle-string) |
@@ -610,4 +611,8 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
