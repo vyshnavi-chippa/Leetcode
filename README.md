@@ -541,6 +541,7 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -587,6 +588,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
