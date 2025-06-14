@@ -269,6 +269,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2556-convert-the-temperature](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -524,6 +525,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
 |  |
