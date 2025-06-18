@@ -9,14 +9,13 @@ class Solution {
                 // if(idx<n-1&&(nums[idx+1]-nums[idx]>k))
                 // return new int[0][0];
                 mat[i][j]=nums[idx];
+                if(mat[i][2]-mat[i][0]>k)
+                return new int[0][0];
                 System.out.print(mat[i][j]+" ");
                 idx++;
             }
         }
-        for(int i=0;i<n/3;i++){
-            if(mat[i][2]-mat[i][0]>k)
-            return new int[0][0];
-        }
+       
         return mat;
     }
 }
