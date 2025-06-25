@@ -277,6 +277,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2752-sum-multiples) |
