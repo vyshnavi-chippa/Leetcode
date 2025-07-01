@@ -345,6 +345,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
