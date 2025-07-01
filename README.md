@@ -31,6 +31,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0506-relative-ranks](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -141,6 +142,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0389-find-the-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0594-longest-harmonious-subsequence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -222,6 +224,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1137-height-checker) |
@@ -523,6 +526,7 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -555,6 +559,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
