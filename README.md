@@ -96,6 +96,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2892-check-if-array-is-good](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
