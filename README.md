@@ -94,6 +94,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2737-row-with-maximum-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -155,6 +156,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2502-sort-the-people) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3034-points-that-intersect-with-cars](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
