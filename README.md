@@ -51,6 +51,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -148,6 +149,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0782-jewels-and-stones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -535,6 +537,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
