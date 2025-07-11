@@ -131,6 +131,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -566,6 +567,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -573,6 +575,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
