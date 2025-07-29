@@ -8,6 +8,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0001-two-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -208,6 +209,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
