@@ -18,6 +18,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0135-candy](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0204-count-primes) |
@@ -471,6 +472,7 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
