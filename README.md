@@ -362,6 +362,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2406-decode-the-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2406-decode-the-message) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2470-removing-stars-from-a-string) |
