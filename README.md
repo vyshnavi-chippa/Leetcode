@@ -10,6 +10,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0027-remove-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0075-sort-colors) |
@@ -443,6 +444,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -477,6 +479,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
