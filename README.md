@@ -90,6 +90,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -302,6 +303,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2556-convert-the-temperature) |
