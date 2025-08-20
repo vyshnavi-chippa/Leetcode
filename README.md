@@ -50,6 +50,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -399,6 +400,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -487,6 +489,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0338-counting-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
