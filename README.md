@@ -128,6 +128,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
@@ -416,6 +417,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3188-find-champion-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
