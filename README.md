@@ -33,6 +33,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0561-array-partition) |
@@ -398,6 +399,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0073-set-matrix-zeroes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
@@ -510,6 +512,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1041-available-captures-for-rook) |
