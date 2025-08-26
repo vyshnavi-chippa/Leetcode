@@ -124,6 +124,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3330-modify-the-matrix) |
