@@ -338,6 +338,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3676-smallest-number-with-all-set-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
