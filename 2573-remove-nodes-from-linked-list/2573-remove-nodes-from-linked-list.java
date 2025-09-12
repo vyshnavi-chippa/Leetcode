@@ -12,7 +12,6 @@ class Solution {
     public ListNode removeNodes(ListNode head) {
         ListNode temp=new ListNode(-1);
         ListNode h1=temp;
-        ListNode t2=head;
         Stack<Integer> st=new Stack<>();
         while(head!=null){
             while(!st.isEmpty()&&st.peek()<head.val){
@@ -24,14 +23,9 @@ class Solution {
         int a[]=new int[st.size()];
         for(int i=0;i<a.length;i++)
         a[i]=st.pop();
-        int idx=a.length-1;
-        while(t2!=null){
-            if(t2.val==a[idx]){
-                temp.next=t2;
-                temp=temp.next;
-                idx--;
-            }
-            t2=t2.next;
+        for(int i=a.length-1;i>=0;i--){
+            temp.next=new ListNode(a[i]);
+            temp=temp.next;
         }
         return h1.next;
     }
