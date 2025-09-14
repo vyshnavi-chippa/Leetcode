@@ -188,6 +188,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -399,6 +400,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3636-check-balanced-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -603,6 +605,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
