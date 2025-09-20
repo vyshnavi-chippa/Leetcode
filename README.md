@@ -122,6 +122,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3188-find-champion-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -185,6 +186,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3034-points-that-intersect-with-cars](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
