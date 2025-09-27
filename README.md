@@ -41,6 +41,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0830-largest-triangle-area](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -313,6 +314,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0268-missing-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -782,4 +784,8 @@ This repository contains the list of programs I executed in leetcode platform
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
