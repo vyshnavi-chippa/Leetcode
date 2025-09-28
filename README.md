@@ -539,6 +539,7 @@ This repository contains the list of programs I executed in leetcode platform
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1258-article-views-i) |
