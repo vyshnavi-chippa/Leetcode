@@ -157,6 +157,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4008-restore-finishing-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
