@@ -421,6 +421,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3396-valid-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-report-spam-message](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3541-report-spam-message) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -637,6 +638,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2308-divide-array-into-equal-pairs](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -659,6 +661,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
