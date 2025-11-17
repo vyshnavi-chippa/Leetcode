@@ -162,6 +162,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [4008-restore-finishing-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -598,6 +599,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
