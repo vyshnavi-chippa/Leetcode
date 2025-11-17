@@ -63,6 +63,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1505-create-target-array-in-the-given-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
