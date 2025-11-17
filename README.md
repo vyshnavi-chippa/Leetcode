@@ -112,6 +112,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2551-apply-operations-to-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -355,6 +356,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [2556-convert-the-temperature](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2752-sum-multiples) |
