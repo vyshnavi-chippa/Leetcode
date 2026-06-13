@@ -168,6 +168,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [4008-restore-finishing-order](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
@@ -454,6 +455,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3636-check-balanced-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3838-weighted-word-mapping](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -620,6 +622,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [3625-stone-removal-game](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/vyshnavi-chippa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/vyshnavi-chippa/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Heap (Priority Queue)
 |  |
