@@ -252,6 +252,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0908-middle-of-the-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -742,6 +743,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -786,6 +788,7 @@ This repository contains the list of programs I executed in leetcode platform
 | [0908-middle-of-the-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/vyshnavi-chippa/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vyshnavi-chippa/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
